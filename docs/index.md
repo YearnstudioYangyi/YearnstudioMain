@@ -11,8 +11,8 @@ hero:
     alt: 毅阳工作室群头像
   actions:
     - theme: brand
-      text: 文档
-      link: /people
+      text: 公告
+      link: /public
 
 features:
   - title: 人员

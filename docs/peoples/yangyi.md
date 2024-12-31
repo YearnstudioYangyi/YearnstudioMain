@@ -12,5 +12,5 @@ prev: false
 - 作品互通
 - NoServerFrp
 ***
-个人邮箱：yangyi@yearnstudio.cn
+个人邮箱：yangyi@yearnstudio.cn<br>
 个人主页：https://yangyi.yearnstudio.cn/
