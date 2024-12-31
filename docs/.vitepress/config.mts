@@ -64,7 +64,8 @@ function sidebar(): DefaultTheme.Sidebar {
     return [
         { text: '关于',link: '/about' },
         { text: '成员', link: '/people',items: [
-            { text: 'Tiger', link: '/peoples/tiger' }
+            { text: 'Tiger', link: '/peoples/tiger' },
+            { text: 'JadeMFX', link: '/peoples/jade' }
         ],collapsed: false },
         { text: '项目', link: '/project'},
             /*{ text: '插件指令帮助', items: [

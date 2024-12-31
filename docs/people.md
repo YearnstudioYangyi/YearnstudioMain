@@ -13,7 +13,7 @@ prev: false
 - 阳毅
 - 楼台倒影入池塘
 - 星缘
-- Tiger
+- [Tiger](https://www.yearnstudio.cn/peoples/tiger)
 - TangerinePeel
-- JadeMFX
+- [Jade](https://www.yearnstudio.cn/peoples/jade)
 - 吾家小狐
