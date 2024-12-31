@@ -1,3 +1,7 @@
+---
+sidebar: true
+prev: false
+---
 # Tiger
 ***
 2020年5月开始学习图形化编程  

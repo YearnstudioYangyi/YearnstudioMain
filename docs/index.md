@@ -21,6 +21,6 @@ features:
     linkText: 成员
   - title: 作品
     icon: 💻
-    link: /work
+    link: /project
     linkText: 作品
 ---
