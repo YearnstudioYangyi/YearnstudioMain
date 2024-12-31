@@ -22,4 +22,5 @@ features:
   - title: 作品
     icon: 💻
     link: /work
+    linkText: 作品
 ---
