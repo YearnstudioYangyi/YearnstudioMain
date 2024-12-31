@@ -62,6 +62,7 @@ function nav(): DefaultTheme.NavItem[] {
 
 function sidebar(): DefaultTheme.Sidebar {
     return [
+        { text: '公告',link: '/public' },
         { text: '关于',link: '/about' },
         { text: '成员', link: '/people',items: [
             { text: '阳毅', link: '/peoples/yangyi' },
