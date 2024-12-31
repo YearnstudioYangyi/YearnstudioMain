@@ -63,8 +63,10 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebar(): DefaultTheme.Sidebar {
     return [
         { text: '关于',link: '/about' },
-        { text: '成员', link: '/people' },
-        { text: '项目', link: '/project' },
+        { text: '成员', link: '/people',items: [
+            { text: 'Tiger', link: '/peoples/tiger' }
+        ],collapsed: false },
+        { text: '项目', link: '/project'},
             /*{ text: '插件指令帮助', items: [
                 { text: 'Ledger查熊', link: '/help/ledger' },
                 { text: '群服互联Bot Connect', link: '/help/bot-connect' },
