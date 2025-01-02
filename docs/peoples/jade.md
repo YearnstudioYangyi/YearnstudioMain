@@ -1,3 +1,7 @@
+---
+sidebar: true
+next: false
+---  
 # Jade
   2018年开始学习图形化。  
   2021年开始学习Python。  

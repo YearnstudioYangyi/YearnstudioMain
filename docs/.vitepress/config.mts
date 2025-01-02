@@ -52,8 +52,8 @@ function nav(): DefaultTheme.NavItem[] {
     return [
         //{ text: '文档', link: '/server', activeMatch: '^/(?!about$).+' },
         { text: '友链', items: [
-            { text: '博客', link: 'https://blog.yearnstudio.cn' },
-            { text: '阳毅の博客', link: 'https://yangyi.yearnstudio.cn' },
+        //    { text: '博客', link: 'https://blog.yearnstudio.cn' },
+            { text: '阳毅的个人博客', link: 'https://yangyi.yearnstudio.cn' },
             { text: 'Tigerの小窝', link: 'https://blog.tiger.scerpark.cn' },
         ] },
         { text: '关于', link: '/about' },
@@ -62,7 +62,10 @@ function nav(): DefaultTheme.NavItem[] {
 
 function sidebar(): DefaultTheme.Sidebar {
     return [
-        { text: '公告',link: '/public' },
+        { text: '公告',link: '/public' ,items: [
+            { text: '2025-1-1', link: '/publics/2025-1-1' },
+            { text: '2025-1-2', link: '/publics/2025-1-2' }
+        ],collapsed: false },
         { text: '关于',link: '/about' },
         { text: '成员', link: '/people',items: [
             { text: '阳毅', link: '/peoples/yangyi' },
