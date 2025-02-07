@@ -3,7 +3,7 @@ import { type DefaultTheme, defineConfig } from 'vitepress'
 // https://vitepress.dev/zh/reference/site-config
 export default defineConfig({
     lang: 'zh-Hans',
-    title: '毅阳工作室',
+    title: '毅阳',
     description: 'Yearnstudio',
     lastUpdated: true,
     cleanUrls: true,
