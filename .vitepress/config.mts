@@ -37,8 +37,8 @@ export default defineConfig({
         docFooter: { prev: '上一篇', next: '下一篇' },
 
         footer: {
-            message: 'yearnstudio@outlook.com',
-            copyright: `© 2020-${new Date().getFullYear()} 毅阳工作室 (Yearnstudio)`,
+            message: '<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2025060081</a>',
+            copyright: `© 2020-${new Date().getFullYear()} 毅阳Yearnstudio`,
         },
     },
 
@@ -53,8 +53,8 @@ function nav(): DefaultTheme.NavItem[] {
         //{ text: '文档', link: '/server', activeMatch: '^/(?!about$).+' },
         { text: '友链', items: [
         //    { text: '博客', link: 'https://blog.yearnstudio.cn' },
-            { text: '阳毅的个人博客', link: 'https://yangyi.yearnstudio.cn' },
-            { text: 'Tigerの小窝', link: 'https://blog.tiger.scerpark.cn' },
+            { text: '阳毅的个人博客', link: 'https://yangyiit.top' },
+            { text: 'Tigerの小窝', link: 'https://tigercoder.top' },
         ] },
         { text: '关于', link: '/about' },
     ]
@@ -67,10 +67,13 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: '2025-1-2', link: '/publics/2025-1-2' }
         ],collapsed: false },
         { text: '关于',link: '/about' },
-        { text: '成员', link: '/people',items: [
+        { text: '伙伴', link: '/people',items: [
             { text: '阳毅', link: '/peoples/yangyi' },
+            { text: '楼台倒影入池塘', link: '/peoples/ltdy' },
+            { text: '星缘', link: '/peoples/xy' },
             { text: 'Tiger', link: '/peoples/tiger' },
-            { text: 'Jade', link: '/peoples/jade' }
+            { text: 'Jade', link: '/peoples/jade' },
+            { text: '吾家小狐', link: '/peoples/wjxh' }
         ],collapsed: false },
         { text: '项目', link: '/project'},
             /*{ text: '插件指令帮助', items: [
