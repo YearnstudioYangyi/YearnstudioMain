@@ -4,11 +4,11 @@ layout: home
 
 hero:
   name: 毅阳
-  text: Yearnstudio
+  text: Yearn
   tagline: ShangCloud开发/维护 | 后端研究
   image:
     src: https://p.qlogo.cn/gh/748440630/748440630/0/
-    alt: Yearnstudio头像
+    alt: 头像
   actions:
     - theme: brand
       text: 公告
