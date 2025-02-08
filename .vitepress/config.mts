@@ -4,7 +4,7 @@ import { type DefaultTheme, defineConfig } from 'vitepress'
 export default defineConfig({
     lang: 'zh-Hans',
     title: '毅阳',
-    description: 'Yearnstudio',
+    description: 'Yearn',
     lastUpdated: true,
     cleanUrls: true,
 
@@ -14,9 +14,9 @@ export default defineConfig({
         // siteTitle: '',
         nav: nav(),
         sidebar: sidebar(),
-        // socialLinks: [
-        //   { icon: 'github', link: 'https://github.com/GuuGuai' },
-        // ],
+         socialLinks: [
+           { icon: 'github', link: 'https://github.com/YearnstudioYangyi' },
+         ],
 
         externalLinkIcon: true,
         langMenuLabel: '切换语言',
@@ -37,8 +37,8 @@ export default defineConfig({
         docFooter: { prev: '上一篇', next: '下一篇' },
 
         footer: {
-            message: '<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2025060081</a>',
-            copyright: `© 2020-${new Date().getFullYear()} 毅阳Yearnstudio`,
+            message: '<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2025060081号-1</a>',
+            copyright: `© 2020-${new Date().getFullYear()} 毅阳Yearn`,
         },
     },
 
@@ -76,10 +76,6 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: '吾家小狐', link: '/peoples/wjxh' }
         ],collapsed: false },
         { text: '项目', link: '/project'},
-            /*{ text: '插件指令帮助', items: [
-                { text: 'Ledger查熊', link: '/help/ledger' },
-                { text: '群服互联Bot Connect', link: '/help/bot-connect' },
-            ] },*/
         { text: '赞助', link: '/sponsor' },
         ]
 }
