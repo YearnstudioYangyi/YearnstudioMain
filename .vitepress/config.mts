@@ -37,7 +37,7 @@ export default defineConfig({
         docFooter: { prev: '上一篇', next: '下一篇' },
 
         footer: {
-            message: '<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2025060081号-1</a>',
+            message: '<a href="https://beian.miit.gov.cn/" target="_blank">陕ICP备2025060081号-1</a>  <a href="https://beian.mps.gov.cn/#/query/webSearch?code=61030402000125" rel="noreferrer" target="_blank">陕公网安备61030402000125号</a>',
             copyright: `© 2020-${new Date().getFullYear()} 毅阳Yearn`,
         },
     },
