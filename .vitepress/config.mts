@@ -37,7 +37,7 @@ export default defineConfig({
         docFooter: { prev: '上一篇', next: '下一篇' },
 
         footer: {
-            message: '<div style="text-align: center; margin-top: 20px;"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=61030402000125" target="_blank"><img src="https://vip.123pan.cn/1814376442/url/%E5%A4%87%E6%A1%88%E5%9B%BE%E6%A0%87.png" alt="公安备案图标" /><span>陕公网安备61030402000125号</span></a></div>',
+            message: '<img src="https://vip.123pan.cn/1814376442/url/%E5%A4%87%E6%A1%88%E5%9B%BE%E6%A0%87.png" alt="公安备案图标" /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=61030402000125" target="_blank">陕公网安备61030402000125号</span></a></div>',
             copyright: `© 2020-${new Date().getFullYear()} 毅阳Yearn`,
         },
     },
