@@ -1,4 +1,3 @@
----
 titleTemplate: Yearnstudio
 layout: home
 
@@ -23,4 +22,7 @@ features:
     icon: 💻
     link: /project
     linkText: 作品
----
+  - title: 公安备案
+    icon: <img src="https://vip.123pan.cn/1814376442/url/beian.png"></img>
+    link: https://beian.mps.gov.cn/#/query/webSearch?code=61030402000125
+    linkText: 陕公网安备61030402000125号
