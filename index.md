@@ -1,4 +1,3 @@
----
 titleTemplate: Yearnstudio
 layout: home
 
