@@ -12,7 +12,7 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-VJWGEPT5.js";
+} from "./chunk-THPMFJZZ.js";
 
 // ../../../AppData/Roaming/npm/node_modules/vitepress/dist/client/theme-default/index.js
 import "C:/Users/33032/AppData/Roaming/npm/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
