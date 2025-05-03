@@ -64,7 +64,8 @@ function sidebar(): DefaultTheme.Sidebar {
     return [
         { text: '公告',link: '/public' ,items: [
             { text: '2025-1-1', link: '/publics/2025-1-1' },
-            { text: '2025-1-2', link: '/publics/2025-1-2' }
+            { text: '2025-1-2', link: '/publics/2025-1-2' },
+            { text: '2025-5-2', link: '/publics/2025-5-2' }
         ],collapsed: false },
         { text: '关于',link: '/about' },
         { text: '伙伴', link: '/people',items: [
