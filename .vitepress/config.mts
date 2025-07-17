@@ -10,7 +10,7 @@ export default defineConfig({
 
     themeConfig: {
     // https://vitepress.dev/zh/reference/default-theme-config
-        logo: 'https://vip.123pan.cn/1833307342/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%86%85%E9%83%A8%E4%BD%BF%E7%94%A8/IMG_20240430_213221.png',
+        logo: 'https://p.qlogo.cn/gh/748440630/748440630/0/',
         // siteTitle: '',
         nav: nav(),
         sidebar: sidebar(),
