@@ -7,8 +7,8 @@ hero:
   text: Yearn
   tagline: ShangCloud开发/维护 | 后端研究
   image:
-    src: https://p.qlogo.cn/gh/748440630/748440630/0/
-    alt: 头像
+    src: https://vip.123pan.cn/1814376442/yk6baz03t0n000d6xujp01eyghvdi0vvDIYPAdD0AqFxDpxPDwa0DY==.png
+    alt: 工作室LOGO
   actions:
     - theme: brand
       text: 公告
