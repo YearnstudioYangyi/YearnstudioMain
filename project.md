@@ -10,7 +10,7 @@ prev: false
 :::
 
 - 殷商OS | ShangOS
-- [ShangCloud](https://yearnstudio.apifox.cn)
+- [ShangCloud](https://api.yearnstudio.cn)
 - NoServerFrp
 - [Yearnstudio资源站](https://alist.yearnstudio.cn)
 - 作品互通
