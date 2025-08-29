@@ -53,8 +53,9 @@ function nav(): DefaultTheme.NavItem[] {
         //{ text: '文档', link: '/server', activeMatch: '^/(?!about$).+' },
         { text: '友链', items: [
         //    { text: '博客', link: 'https://blog.yearnstudio.cn' },
-            { text: '阳毅的个人博客', link: 'https://yangyiit.top' },
-            { text: 'Tigerの小窝', link: 'https://tigercoder.top' },
+            { text: '40code', link: 'https://40code.com' },
+            { text: 'ZeroCat', link: 'https://zerocat.dev' },
+            { text: '小盒子社区', link: 'https://sbox.yearnstudio.cn' },
         ] },
         { text: '关于', link: '/about' },
     ]
@@ -76,9 +77,11 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: '星缘', link: '/peoples/xy' },
             { text: 'Tiger', link: '/peoples/tiger' },
             { text: 'Jade', link: '/peoples/jade' },
-            { text: '吾家小狐', link: '/peoples/wjxh' }
+            { text: '吾家小狐', link: '/peoples/wjxh' },
+            { text: 'FShrimp', link: '/peoples/fshrimp' },
+            { text: 'LAGSNES', link: '/peoples/LAGSNES' }
         ],collapsed: false },
-        { text: '项目', link: '/project'},
-        { text: '赞助', link: '/sponsor' },
+            { text: '项目', link: '/project'},
+            { text: '赞助', link: '/sponsor' },
         ]
 }

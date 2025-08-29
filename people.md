@@ -10,13 +10,17 @@ prev: false
 ::: warning 本名单按照时间排序
 
 :::
-- [阳毅](https://www.yearnstudio.cn/peoples/yangyi)
-- [楼台倒影入池塘](https://www.yearnstudio.cn/peoples/ltdy)
-- [星缘](https://www.yearnstudio.cn/peoples/xy)
-- [Tiger](https://www.yearnstudio.cn/peoples/tiger)
+- [阳毅](/peoples/yangyi)
+- [楼台倒影入池塘](/peoples/ltdy)
+- [星缘](/peoples/xy)
+- [Tiger](/peoples/tiger)
 - TangerinePeel
-- [Jade](https://www.yearnstudio.cn/peoples/jade)
-- [吾家小狐](https://www.yearnstudio.cn/peoples/wjxh)
+- [Jade](/peoples/jade)
+- [吾家小狐](/peoples/wjxh)
+- [Fshrimp](/peoples/fshrimp)
+- [LAGSNES](/peoples/lagsnes)
+
+
 ***
 我们欢迎各位同道成为伙伴，若有意向请联系<br>
 `yearnstudio@outlook.com`(工作邮箱)<br>
