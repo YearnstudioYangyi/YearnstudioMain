@@ -18,7 +18,8 @@ prev: false
 - [Jade](/peoples/jade)
 - [吾家小狐](/peoples/wjxh)
 - [Fshrimp](/peoples/fshrimp)
-- [LAGSNES](/peoples/lagsnes)
+- [LAGSNES](/peoples/LAGSNES)
+
 
 
 ***
