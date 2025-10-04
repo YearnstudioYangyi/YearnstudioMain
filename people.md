@@ -6,10 +6,10 @@ prev: false
 
 # 伙伴
 
-
 ::: warning 本名单按照时间排序
 
 :::
+
 - [阳毅](/peoples/yangyi)
 - [楼台倒影入池塘](/peoples/ltdy)
 - [星缘](/peoples/xy)
@@ -20,13 +20,11 @@ prev: false
 - [Fshrimp](/peoples/fshrimp)
 - [LAGSNES](/peoples/LAGSNES)
 
-
-
 ***
-我们欢迎各位同道成为伙伴，若有意向请联系<br>
-`yearnstudio@outlook.com`(工作邮箱)<br>
-或<br>
-`yangyi@yearnstudio.cn`(个人邮箱)<br>
-::: tip 来信请说明来意、擅长领域、联系方式等<br>
+我们欢迎各位同道成为伙伴，若有意向请联系：
+
+- **工作邮箱**：`yearnstudio@outlook.com`
+- **个人邮箱**：`yangyi@yearnstudio.cn`
+::: tip 来信请说明来意、擅长领域、联系方式等
 将在14个自然日内回复。
 :::
