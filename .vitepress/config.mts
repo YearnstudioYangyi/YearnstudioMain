@@ -66,7 +66,6 @@ function sidebar(): DefaultTheme.Sidebar {
         { text: "公告",link: "/public" ,items: [
             { text: "2025-1-1", link: "/publics/2025-1-1" },
             { text: "2025-1-2", link: "/publics/2025-1-2" },
-            { text: "2025-5-2", link: "/publics/2025-5-2" },
             { text: "2025-5-21", link: "/publics/2025-05-21" },
             { text: "2025-6-27", link: "/publics/2025-6-27" },
             { text: "2025-9-30", link: "/publics/2025-9-30"},
