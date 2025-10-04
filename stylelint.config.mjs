@@ -1,3 +1,3 @@
-import zin from '@zinkawaii/stylelint-config'
+import zin from "@zinkawaii/stylelint-config";
 
-export default zin()
+export default zin();
