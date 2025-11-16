@@ -70,7 +70,8 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: "2025-6-27", link: "/publics/2025-6-27" },
             { text: "2025-9-30", link: "/publics/2025-9-30"},
             { text: "2025-10-4", link: "/publics/2025-10-4"},
-            { text: "2025-10-5", link: "/publics/2025-10-5"}
+            { text: "2025-10-5", link: "/publics/2025-10-5"},
+            { text: "2025-11-16", link: "/publics/2025-11-16"}
         ],collapsed: false },
         { text: "关于",link: "/about" },
         { text: "伙伴", link: "/people",items: [
