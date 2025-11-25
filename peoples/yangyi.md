@@ -6,6 +6,8 @@
 - C/C++
 - Python
 - Golang(仍在学习)
+   
+![languages](https://skillicons.dev/icons?i=c,cpp,python,golang,flask,mysql,sqlite,html,github,gitlab,git,windows,linux)
 ***
 参与项目：
 
