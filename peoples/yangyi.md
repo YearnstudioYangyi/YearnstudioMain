@@ -1,13 +1,16 @@
 # 阳毅
 
-`后端/运维`，熟悉C++、C、Python等语言。
+`后端/运维`  
+***
+使用的技术栈:
+- C/C++
+- Python
+- Golang(仍在学习)
 ***
 参与项目：
 
 - ShangOS
 - ShangCloud
-- 作品互通
-- NoServerFrp
 
 ***
 联系方式：

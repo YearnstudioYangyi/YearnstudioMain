@@ -82,7 +82,11 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: "Jade", link: "/peoples/jade" },
             { text: "吾家小狐", link: "/peoples/wjxh" },
             { text: "FShrimp", link: "/peoples/fshrimp" },
-            { text: "LAGSNES", link: "/peoples/LAGSNES" }
+            { text: "LAGSNES", link: "/peoples/LAGSNES" },
+            { text: "资源站管理组", items:[
+                {text: '祈安', link: "/peoples/qian"},
+                {text: '拾‍‍山‍'}
+            ],collapsed: true}
         ],collapsed: false },
             { text: "项目", link: "/project"},
             { text: "赞助", link: "/sponsor" },
