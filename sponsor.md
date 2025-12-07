@@ -40,6 +40,7 @@ prev: false
 |      Kikl      |    50    |
 |     刘浩哲     |    30    |
 |     祈安       |    25    |
+|   Forward.    |   15     |
 |   星梦丶云烟   |   7.5    |
 |   zmh  |   5    |
 |   Saki  |   3    |
