@@ -85,7 +85,8 @@ function sidebar(): DefaultTheme.Sidebar {
             { text: "LAGSNES", link: "/peoples/LAGSNES" },
             { text: "资源站管理组", items:[
                 {text: '祈安', link: "/peoples/qian"},
-                {text: '拾‍‍山‍'}
+                {text: '杜康', link: "/peoples/dukang"},
+                {text: '拾‍‍山‍', link: "/peoples/shishan"}
             ],collapsed: true}
         ],collapsed: false },
             { text: "项目", link: "/project"},
